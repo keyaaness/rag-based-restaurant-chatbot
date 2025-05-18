@@ -1,4 +1,4 @@
-# Zomato RAG-based Restaurant Chatbot
+# RAG-based Restaurant Chatbot
 
 A Retrieval Augmented Generation (RAG) based chatbot that answers user questions about restaurants using data scraped from restaurant websites.
 
