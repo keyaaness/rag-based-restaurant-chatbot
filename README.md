@@ -22,7 +22,7 @@ This project consists of the following components:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/zomato-rag-chatbot.git
+   git clone https://github.com/keyaaness/zomato-rag-chatbot.git
    cd zomato-rag-chatbot
    ```
 
